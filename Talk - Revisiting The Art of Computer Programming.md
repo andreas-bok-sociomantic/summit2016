@@ -128,6 +128,7 @@ public static void main(String[] args)
 
 Studies comparing subjects with and without a computer science background.
 
+\href{http://www.infosun.fim.uni-passau.de/se/janet/fMRI/index.php}
 
 **Christopher Parnin: http://www.chrisparnin.me**
 
